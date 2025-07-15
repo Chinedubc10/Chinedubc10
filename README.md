@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-website-ch-lovat.vercel.app](https://portfolio-website-ch-lovat.vercel.app)
 
-- 💬 Ask me about **React, Laravel, Php**
+- 💬 Ask me about **Javascript, React, Laravel, Php**
 
 - 📫 How to reach me **nedumilan@yahoo.com**
 
