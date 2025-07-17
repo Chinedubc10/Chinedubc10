@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-website-ch-lovat.vercel.app](https://portfolio-website-ch-lovat.vercel.app)
+- 👨‍💻 All of my projects are available at [My website](https://portfolio-website-chi-lovat.vercel.app)
 
 - 💬 Ask me about **Javascript, React, Laravel, Php**
 
