@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nedumilan@yahoo.com**
 
-- 📄 Know about my experiences [https://portfolio-website-ch-lovat.vercel.app](https://portfolio-website-ch-lovat.vercel.app)
+- 📄 Know about my experiences [My portfolio](https://portfolio-website-chi-lovat.vercel.app)
 
 - ⚡ Fun fact **I am a goal-oriented person**
 
